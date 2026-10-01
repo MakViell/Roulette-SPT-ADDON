@@ -1,0 +1,9 @@
+{
+  "tiers": [
+    { "id": "milspec", "name": "Mil-Spec", "color": "#4B69FF", "weight": 60.0 },
+    { "id": "restricted", "name": "Restricted", "color": "#8847FF", "weight": 25.0 },
+    { "id": "classified", "name": "Classified", "color": "#D32CE6", "weight": 10.0 },
+    { "id": "covert", "name": "Covert", "color": "#EB4B4B", "weight": 4.0 },
+    { "id": "gold", "name": "Rare Special", "color": "#E4AE39", "weight": 1.0 }
+  ]
+}
